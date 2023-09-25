@@ -1,0 +1,17 @@
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\bin\Debug\net7.0\Core.dll
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\bin\Debug\net7.0\Core.pdb
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CopyComplete
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\bin\Debug\net7.0\Infraestructure.runtimeconfig.json
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\NetCore\TiendaCampus2023\Infraestructure\obj\Debug\net7.0\Infraestructure.genruntimeconfig.cache
