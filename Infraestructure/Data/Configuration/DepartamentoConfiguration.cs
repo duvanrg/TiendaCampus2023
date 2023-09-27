@@ -15,6 +15,7 @@ public class DepartamentoConfiguracion : IEntityTypeConfiguration<Departamento>
         builder.Property(p => p.Nombre).IsRequired().HasMaxLength(50);
 
         builder.HasOne(p => p.Paises).WithMany(p => p.Departamentos).HasForeignKey(p => p.idpaisFK);
+
     }
 
 

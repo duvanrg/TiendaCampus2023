@@ -13,6 +13,7 @@ public class PaisConfiguracion : IEntityTypeConfiguration<Pais>
         builder.Property(e => e.id);
 
         builder.Property(p => p.Nombre).IsRequired().HasMaxLength(50);
+
     }
 
 
