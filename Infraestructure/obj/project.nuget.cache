@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQz09GOw8M9wAei7a2Gn8JASQZ5Tc8cmqQYxPELGP3Deio2j0bMArqAu32K0P+DD+zHF5NpfbBUn9Ty+EF6Tfg==",
+  "dgSpecHash": "unr259e6qWSzEsIfCFuKZdGoV4T+fnQbKrF+hu21jUCwAXHsCqPq9xGaY2dG8ySgqpAA4C1rTgzwT3gNkNTocA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\TiendaCampus2023\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\TiendaCampus2023\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APM02-45\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\APM02-45\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XVKXNNyhCEjkfkQvRPqq8VM59gUMSZQkwhc5tGvRw6qAVmkLTCNDOcSFWsWY9lxMLg6YMF2l33iNAi1dlj7fUA==",
+  "dgSpecHash": "8vqMDg2KzJEJ3UtDV84PWLA5jrxA5E3e6LLXXc6n/FEtCk1OlWfkyH/ZArmnuPS3kDca4bDLAbXuxI6FUyVnfw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\TiendaCampus2023\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\TiendaCampus2023\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APM02-45\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\APM02-45\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
